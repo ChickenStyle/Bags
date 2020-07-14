@@ -1,0 +1,17 @@
+name: Bags
+main: me.chickenstyle.backpack.Main
+api-version: 1.15
+description: adds backpacks!
+version: 1.0
+commands:
+  arrowbag: 
+    description: Plugin's main command
+    
+  potionbag: 
+    description: Plugin's main command
+    
+  talismanbag: 
+    description: Plugin's main command
+    
+  bag: 
+    description: Plugin's main command

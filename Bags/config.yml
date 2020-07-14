@@ -1,0 +1,10 @@
+messages:
+  disablePlace: "&4You cannot place this item here!"
+ 
+titles:
+  arrow: "&6Arrows"
+  potion: "&dPotions"
+  talisman: "&bTalismans"
+  bag: "&aBag"
+  
+arrowCommand: "say change the arrow command!"
